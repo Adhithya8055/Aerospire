@@ -35,5 +35,5 @@ The following installation packages & repositories in this installation belongs 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [@arcticfox.92](https://www.instagram.com/arcticfox.92/)
+If you have any feedback or any query, please reach out to me at [@arcticfox.92](https://www.instagram.com/arcticfox.92/)
 
