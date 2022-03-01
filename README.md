@@ -24,6 +24,11 @@ chmod +x kali.sh
  ```bash
 sudo ./kali.sh
 ```   
+## Usage
+
+please refer to the [ACARSDEC](https://github.com/TLeconte/acarsdec) for usage instruction.
+
+
 ## Disclaimer
 The following installation packages & repositories in this installation belongs to their respective owners.
 
@@ -31,9 +36,4 @@ The following installation packages & repositories in this installation belongs 
 ## Feedback
 
 If you have any feedback, please reach out to me at [@arcticfox.92](https://www.instagram.com/arcticfox.92/)
-
-
-## Related
-
-please refer to the [ACARSDEC](https://github.com/TLeconte/acarsdec) for usage instruction.
 
