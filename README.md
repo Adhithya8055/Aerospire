@@ -24,7 +24,7 @@ chmod +x kali.sh
  ```bash
 sudo ./kali.sh
 ```   
-## Usage
+## Instruction
 
 please refer to the [ACARSDEC](https://github.com/TLeconte/acarsdec) for usage instruction.
 
