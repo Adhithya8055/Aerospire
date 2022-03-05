@@ -1,7 +1,7 @@
 
 # ACARSDEC RTL-SDR
 
-This is a custom installation of ACARSDEC, Tailor-made script for 
+This is a custom installation of ACARS Decoder, Tailor-made script for 
 RTL-SDR users.
 
 
