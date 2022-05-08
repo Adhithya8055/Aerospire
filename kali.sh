@@ -29,7 +29,7 @@ clear
 sleep 2
 sudo make install
 sleep 2
-ldconfig
+sudo ldconfig
 
 
 #Installing libacars-package
