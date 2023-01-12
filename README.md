@@ -47,6 +47,7 @@ sudo bash ./install-acarsdec.sh
 ## Instruction
 
 For information on how to use Acarsdec, please refer to the [ACARSDEC by TLeconte](https://github.com/TLeconte/acarsdec) for usage instruction.
+
 For Additional Information refer to the blog - https://community.infiniteflight.com/t/acars-technology-receiving-decoding-live-acars-vhf-part-i/694792
 
 
