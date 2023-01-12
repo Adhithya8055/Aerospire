@@ -34,7 +34,7 @@ Open Directory
 cd Acarsdec_RTL-SDR
 ```
 
-Give permission to the script ( Note: if error shown, please add sudo to correct it.
+Give permission to the script ( Note: if error shown, please add "sudo" to correct it.
 ```bash
 chmod +x install-acarsdec.sh
 ```
