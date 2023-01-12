@@ -56,5 +56,5 @@ sudo make install
 sudo ldconfig
 
 # Instruction
-echo "\033[0;36m Find the instruction on how to run acarsdec in README.md"
+echo "\033[0;36m For information on how to use Acarsdec, please refer to the ACARSDEC by TLeconte in github for usage instruction."
 
