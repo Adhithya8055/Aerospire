@@ -7,13 +7,13 @@ RTL-SDR users.
 
 ## Supported OS / Architecture
 
-**Kali linux**
+**• Kali linux**
 
-**Raspberry pi**
+**• Raspberry pi**
 
-**Ubuntu**
+**• Ubuntu**
 
-**x86, x64, and ARM**
+**• x86, x64, and ARM**
 
 
 ## Installation
@@ -31,16 +31,16 @@ cd Acarsdec_RTL-SDR
 ```
 
 ```bash
-chmod +x Acarsdec.sh
+chmod +x install-acarsdec.sh
 ```
 
 ```bash 
-sudo bash ./Acarsdec.sh
+sudo bash ./install-acarsdec.sh
 ```
 
 ## Instruction
 
-please refer to the [ACARSDEC](https://github.com/TLeconte/acarsdec) for usage instruction.
+For information on how to use Acarsdec, please refer to the [ACARSDEC by TLeconte](https://github.com/TLeconte/acarsdec) for usage instruction.
 
 
 ## Disclaimer
