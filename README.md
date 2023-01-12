@@ -18,6 +18,7 @@ RTL-SDR users.
 
 ## Installation
 
+update 
 ```bash
 sudo apt update
 ```
