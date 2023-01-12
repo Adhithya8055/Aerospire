@@ -5,13 +5,16 @@ This is a custom installation of ACARS Decoder, Tailor-made script for
 RTL-SDR users.
 
 
-## Supported OS
+## Supported OS / Architecture
 
 **Kali linux**
 
-**Raspberry pi** (coming soon)
+**Raspberry pi**
 
-**Ubuntu** (coming soon)
+**Ubuntu**
+
+**x86, x64, and ARM**
+
 
 ## Installation
 
