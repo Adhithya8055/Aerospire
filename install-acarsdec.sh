@@ -2,14 +2,12 @@
 
 #About
 clear
-echo "\033[1;36m Acars complete installation on Raspbian, Kali Linux, and Ubuntu "
-echo '--------------------------------------------------------------'
+echo -e "\033[1;36m Acars complete installation on Raspbian, Kali Linux, and Ubuntu"
+echo "-----------------------------------------------------------------"
+echo "" 
 sleep 3
-echo "\033[1;33m disclaimer: The following installation packages & repositories in this installation belongs to their respective owners." 
-sleep 4
-
-# Update package list
-sudo apt update
+echo -e "\033[1;33mDisclaimer: The following installation packages and repositories in this installation belong to their respective owners."
+#!/bin/bash
 
 # Install RTL-driver
 echo "\033[0;32m installing rtl-driver"
