@@ -7,7 +7,6 @@ echo "-----------------------------------------------------------------"
 echo "" 
 sleep 3
 echo -e "\033[1;33mDisclaimer: The following installation packages and repositories in this installation belong to their respective owners."
-#!/bin/bash
 
 # Install RTL-driver
 echo "\033[0;32m installing rtl-driver"
