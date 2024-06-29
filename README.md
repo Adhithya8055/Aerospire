@@ -1,5 +1,5 @@
 
-# ACARSDEC RTL-SDR
+# Aerospire
 
 This is a custom one-click installation of ACARS Decoder, Tailor-made for 
 RTL-SDR users.
