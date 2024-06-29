@@ -26,7 +26,7 @@ sudo apt-get update
 
 Git clone the Respository
  ```bash
-git clone https://github.com/Adhithya8055/Acarsdec_RTL-SDR.git
+git clone https://github.com/Adhithya8055/Aerospire.git
 ```   
 
 Open Directory
@@ -36,12 +36,12 @@ cd Acarsdec_RTL-SDR
 
 Give permission to the script ( Note: if error shown, please add "sudo" to correct it.
 ```bash
-chmod +x install-acarsdec.sh
+chmod +x install.sh
 ```
 
 Execute the Script
 ```bash 
-sudo bash ./install-acarsdec.sh
+sudo bash ./install.sh
 ```
 
 ## Instruction
@@ -57,5 +57,5 @@ The following installation packages & repositories in this installation belongs 
 
 ## Feedback
 
-If you have any feedback or queries, please reach out to me at [@arcticfox.92](https://www.instagram.com/arcticfox.92/)
+If you have any feedback or queries, please reach out to me at [@Adhithya_pasupuleti](https://www.instagram.com/adhithya_pasupuleti/)
 
