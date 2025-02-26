@@ -34,6 +34,7 @@ echo "\033[0;32m installing libacars-package"
 sudo mkdir -p /usr/src/libacars
 sudo git clone https://github.com/szpajder/libacars.git /usr/src/libacars
 cd /usr/src/libacars
+sudo apt install zlib1g-dev libxml2-dev libjansson-dev -y
 sudo mkdir build
 cd build
 sudo cmake ..
