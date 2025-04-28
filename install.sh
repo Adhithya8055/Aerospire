@@ -11,9 +11,9 @@ echo -e "\033[1;33mDisclaimer: The following installation packages and repositor
 # Install RTL-driver
 echo "\033[0;32m installing rtl-driver"
 if ! command -v apt-get > /dev/null; then
-    sudo apt install cmake git pkg-config rtl-sdr gr-osmosdr libusb-1.0-0-dev -y
+    sudo apt install cmake git pkg-config rtl-sdr libusb-1.0-0-dev -y
 else
-    sudo apt-get install cmake git pkg-config rtl-sdr gr-osmosdr libusb-1.0-0-dev -y
+    sudo apt-get install cmake git pkg-config rtl-sdr  libusb-1.0-0-dev -y
 fi
 
 # Clone the repository for RTL-SDR
